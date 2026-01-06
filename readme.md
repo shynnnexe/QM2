@@ -6,7 +6,7 @@ The structure of the repository mirrors the original workshop layout, making it 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - **Weekly notebooks (`W01`–`W10`)**  
   Each notebook corresponds to a workshop topic:
@@ -24,7 +24,7 @@ The structure of the repository mirrors the original workshop layout, making it 
 
 ---
 
-## ✅ What’s Included
+## What’s Included
 
 - **Complete answers to all Python workshop questions**
 - **Option 2 solutions clearly implemented**
@@ -35,7 +35,7 @@ The **Option 2 answers are embedded within the relevant notebooks, with OPT2 as 
 
 ---
 
-## 📝 Notes
+## Notes
 
 - This repository is intended for **learning, revision, and reference**.
 - The original workshop content has been kept intentionally to preserve context and clarity.
